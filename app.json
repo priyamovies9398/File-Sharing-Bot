@@ -11,7 +11,7 @@
   "env": {
     "TG_BOT_TOKEN": {
       "description": "Your Bot token, Get it from @Botfather",
-      "value": "6931066384:AAFil9wRZpAf0jeTMakbpDWspDsAMFmWw4s"
+      "value": "7419976513:AAH808-9KPRksn84EedJ_TjfSUZw-85Pr2s"
     },
     "OWNER_ID": {
       "description": "An integer of consisting of your owner ID",
@@ -43,16 +43,16 @@
     },
     "START_MESSAGE": {
       "description": "Optional: start message of bot, use HTML parsemode format",
-      "value": "Hello {first}\n\nI can store private files in Specified Channel and other users can access it from special link."
+      "value": "Hello {first} BABY\n\nI can store private files in Specified Channel and other users can access it from special link @PriyaMovis."
     },
     "FORCE_SUB_MESSAGE": {
       "description": "Optional: Force Sub message of bot, use HTML parsemode format",
-      "value": "Hello {first}\n\n<b>You need to join in my Channel/Group to use me\n\nKindly Please join Channel</b>"
+      "value": "Hello {first} BABY\n\n<b>You need to join in my Channel/Group to use me\n\nKindly Please join Channel</b>"
     },
     "ADMINS": {
       "description": "A space separated list of user_ids of Admins, they can only create links",
       "value": "1337013299",
-      "required": false
+      "required": true
     },
     "PROTECT_CONTENT": {
       "description": "Protect contents from getting forwarded",
